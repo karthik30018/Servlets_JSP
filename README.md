@@ -87,7 +87,30 @@
 
 ![CookieOp](https://github.com/user-attachments/assets/d9d9bdd8-b0f7-4119-9075-feffbd9f520e)
 
+## ServletConfig and ServletContext
+- Both are used to set the initial value.
+- If we are using ServletContext.
+
+![Screenshot 2025-05-10 230107](https://github.com/user-attachments/assets/44af315c-0c9d-4dc2-930b-bdbe60697084)
 
 
+![sercxt1](https://github.com/user-attachments/assets/b37fe6d3-e23c-408d-9b4b-0918713a31ee)
 
+![Screenshot 2025-05-10 230012](https://github.com/user-attachments/assets/8117a386-4b23-424b-a537-315cf87147d2)
 
+- If we are using ServletConfig it belongs to a perticular servlet.
+
+![ServConf1](https://github.com/user-attachments/assets/618ce830-1b0a-4820-a63e-f680cc0bc19d)
+
+![servCon2](https://github.com/user-attachments/assets/48133199-e05e-4158-9b85-d8b258285a12)
+
+![svtconop](https://github.com/user-attachments/assets/16360a6b-2c01-433a-8224-80ff22963a3d)
+
+## Servlet Annotation Configuration
+
+- Used to config the URL path in which path the page should open
+![Screenshot 2025-05-10 231144](https://github.com/user-attachments/assets/dfc9e2be-4720-4e5a-ade2-0d8ea160bcb6)
+
+instead of using xml code we can use annotation and specify the path.
+
+![annot](https://github.com/user-attachments/assets/76e45060-8263-4f94-ac33-38247dda0600)
