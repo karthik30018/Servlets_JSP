@@ -114,3 +114,43 @@
 instead of using xml code we can use annotation and specify the path.
 
 ![annot](https://github.com/user-attachments/assets/76e45060-8263-4f94-ac33-38247dda0600)
+
+## JSP
+
+Scriptlet
+Declaration
+Directive
+Expression
+
+![JSPtag](https://github.com/user-attachments/assets/563f2721-ac1a-4d71-8343-f3eeb56d8d8b)
+
+### JSP Directive
+![jspdir](https://github.com/user-attachments/assets/8dd2d2a6-60ed-47be-b038-fc5ee5690eb6)
+![Screenshot 2025-05-11 140111](https://github.com/user-attachments/assets/2b3f36c7-ade6-4c6a-95ef-a9ea1a57ebeb)
+![Screenshot 2025-05-11 140135](https://github.com/user-attachments/assets/9409c396-fad2-414c-af71-4eb11efe19b8)
+![Screenshot 2025-05-11 140611](https://github.com/user-attachments/assets/12bb253e-66a1-417e-8483-80ea033b0533)
+
+- To include other jsp page in the current page.
+![Screenshot 2025-05-11 140757](https://github.com/user-attachments/assets/38480862-3eed-48de-a039-8f52346e6ca1)
+![Screenshot 2025-05-11 140919](https://github.com/user-attachments/assets/296d1266-d69c-41de-ac74-ed74fa709bf5)
+
+
+![Screenshot 2025-05-11 141032](https://github.com/user-attachments/assets/3cda8aa7-e5d3-4f16-b51f-52453c52e9f9)
+- we can directly use the above objects in JSP.`<% request.getParameter(); %>`
+
+![Screenshot 2025-05-11 141346](https://github.com/user-attachments/assets/51dc6b28-d225-49e1-a026-3f37a7e3ef75)
+- The scope of the pageContext is the page where it is written.
+
+![Screenshot 2025-05-11 141553](https://github.com/user-attachments/assets/27afc845-1ac2-4214-947f-f033c56625e6)
+- It makes it available for every pages and will be stored in session.
+
+## Exception handling in JSP
+
+Create an error page and specify that it is an error page by including `isErrorPage="true"` in the first `<%@ %>` of JSP page
+![Screenshot 2025-05-11 144258](https://github.com/user-attachments/assets/464995f9-1cdf-42a5-acdb-c3a49bc903cd)
+Include the error page in other page
+![Screenshot 2025-05-11 144336](https://github.com/user-attachments/assets/ccaf80ec-cdb6-46a1-a261-223dd167dc9d)
+
+
+
+
