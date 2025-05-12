@@ -152,5 +152,13 @@ Include the error page in other page
 ![Screenshot 2025-05-11 144336](https://github.com/user-attachments/assets/ccaf80ec-cdb6-46a1-a261-223dd167dc9d)
 
 
+## JSTL -> JSP Standard Tag Library 
+
+![Screenshot 2025-05-11 193921](https://github.com/user-attachments/assets/23029ed8-bab6-40a8-abac-bd51e867ec98)
+![Screenshot 2025-05-11 193941](https://github.com/user-attachments/assets/7dcc5adf-ae00-438b-ba07-f52f74db904c)
+
+### JSTL core tags
+
+- To add libraries inside JSP by using `<%@ taglib prefix="" uri="" %>`
 
 
